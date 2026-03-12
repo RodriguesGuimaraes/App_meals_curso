@@ -7,6 +7,7 @@ class TabsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // navegação abaixo da appbar
     return DefaultTabController(
       length: 2,
       child: Scaffold(
