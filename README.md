@@ -1,17 +1,26 @@
-# meals
+# 🍽️ Meals - App de Receitas
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.16+-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.2+-blue?logo=dart)
 
-## Getting Started
+Aplicativo desenvolvido durante o curso de Flutter e Dart para aprendizado dos conceitos fundamentais do framework. O Meals é um catálogo de receitas que permite aos usuários navegar por categorias, visualizar detalhes das receitas e marcar seus pratos favoritos.
 
-This project is a starting point for a Flutter application.
+## 📱 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- **Navegação por Categorias**: Explore receitas organizadas em diferentes categorias
+- **Detalhes da Receita**: Visualize ingredientes, modo de preparo e informações nutricionais
+- **Favoritos**: Marque suas receitas preferidas para acesso rápido
+- **Filtros**: Filtre receitas por restrições alimentares (glúten-free, lactose-free, etc.)
+- **Drawer Personalizado**: Menu lateral com opções de navegação
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tecnologias e Conceitos Aplicados
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter & Dart**: Desenvolvimento cross-platform
+- **Navegação**: Rotas nomeadas e passagem de parâmetros entre telas
+- **Gerenciamento de Estado**: Utilização de StatefulWidget e setState
+- **Provider**: Gerenciamento de estado para os favoritos
+- **Listas e Grids**: Exibição dinâmica de conteúdo com ListView e GridView
+- **Interação com Usuário**: Drawer, BottomSheet, AlertDialog
+- **Estilização**: Temas, cores, fontes e temas personalizados
+
+## 📁 Estrutura do Projeto
