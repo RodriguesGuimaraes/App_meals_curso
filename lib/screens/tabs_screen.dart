@@ -17,7 +17,7 @@ class _TabsScreenState extends State<TabsScreen> {
     {'title': 'Meus Favoritos', 'screen': FavoriteScreen()},
   ];
 
-  _selectScreen(int index) {
+  void _selectScreen(int index) {
     setState(() {
       _selectedScreenIndex = index;
     });

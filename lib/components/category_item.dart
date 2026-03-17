@@ -5,7 +5,7 @@ import '../utils/app_routes.dart';
 class CategoryItem extends StatelessWidget {
   final Category category;
 
-  CategoryItem({required this.category, super.key});
+  const CategoryItem({required this.category, super.key});
 
   void _selectCategory(BuildContext context) {
     Navigator.of(context).pushNamed(
