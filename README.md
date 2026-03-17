@@ -22,5 +22,3 @@ Aplicativo desenvolvido durante o curso de Flutter e Dart para aprendizado dos c
 - **Listas e Grids**: Exibição dinâmica de conteúdo com ListView e GridView
 - **Interação com Usuário**: Drawer, BottomSheet, AlertDialog
 - **Estilização**: Temas, cores, fontes e temas personalizados
-
-## 📁 Estrutura do Projeto
